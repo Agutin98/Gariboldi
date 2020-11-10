@@ -11,3 +11,6 @@ pero busqué otra manera de realizarlos satisfactoriamente. Por la limitacion de
 si no mas bien es una pequeña muestra de lo que soy capaz de realizar en menos de 72 horas y con un trabajo a tiempo completo.
 A quien está leyendo esto. Espero que revisarlo le resulte tan divertido como a mi el realizarlo.
 Un formal saludo, Agustín Soria. =)
+
+Edit: Dejo el link de postman con las peticiones
+https://www.getpostman.com/collections/f27ee35da68693b9446c
